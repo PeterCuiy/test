@@ -15,4 +15,6 @@
 三、
 1、创建分支：git checkout -b myBranch
 2、新增文件： git add 文件名 ；git commit -m "备注"
-3、推送分支到远程：git push --set-upstream origin mybranch 
+3、推送分支到远程：git push origin mybranch 
+4、合并分支mybranch 到master：
+5、合并到master到origin
