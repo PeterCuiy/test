@@ -11,3 +11,6 @@
 1、新增文件： git add 文件名 ；git commit -m "备注"
 2、合并本地master分支： git checkout master;git merge mybrance
 3、提交本地master到远程orgin： git push origin master
+
+三、
+branch
